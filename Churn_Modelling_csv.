@@ -6,7 +6,7 @@
       "name": "Churn_Modelling.csv",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyMbn9pdwcb970mDPWdr9icY",
+      "authorship_tag": "ABX9TyNbOMj/uNwczO955jDCsKpY",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -42,6 +42,7 @@
     {
       "cell_type": "markdown",
       "source": [
+        "\n",
         "RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,\n",
         "NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited\n",
         "1,15634602,Hargrave,619,France,Female,42,2,0,1,1,1,101348.88,1\n",
